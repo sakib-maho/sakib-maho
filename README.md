@@ -1,7 +1,7 @@
 # Hi, I am Md Robiul Islam Sakib
 
 Software Engineer focused on automation, backend systems, and practical AI workflows.
-Currently building reliable data pipelines and business process automation tools.
+I build reliable data pipelines and business process automation tools.
 
 ## Tech Stack
 - Python, JavaScript, TypeScript, Go
@@ -10,10 +10,11 @@ Currently building reliable data pipelines and business process automation tools
 - GitHub Actions, Docker
 
 ## Featured Projects
-- [tim](https://github.com/sakib-maho/tim) - JMS PDF job extractor and workflow automation.
+- [tim](https://github.com/sakib-maho/tim) - JMS PDF job extraction and workflow automation.
 - [ai-lead-intake-crm-automation](https://github.com/sakib-maho/ai-lead-intake-crm-automation) - AI-assisted lead intake pipeline integrating OpenAI and Google Sheets.
-- [MotoFeedEnricher](https://github.com/sakib-maho/MotoFeedEnricher) - Product feed enrichment for Google Merchant Center.
-- [undangan](https://github.com/sakib-maho/undangan) - Production-style interactive invitation web app.
+- [MotoFeedEnricher](https://github.com/sakib-maho/MotoFeedEnricher) - Product feed enrichment for Google Merchant Center motorcycle catalogs.
+- [fairings-list](https://github.com/sakib-maho/fairings-list) - Reference dataset for fairings brand-model-year mapping.
+- [undangan](https://github.com/sakib-maho/undangan) - Wedding invitation web app with animation and accessibility improvements.
 
 ## Current Focus
 - Hardening automation workflows with better observability
