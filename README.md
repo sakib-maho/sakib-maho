@@ -37,17 +37,6 @@ _Most production work is under private organization repositories, so these publi
 - [A-Star](https://github.com/sakib-maho/A-Star) - Refactored pathfinding logic into reusable modules with CLI input, tests, and notebook demonstration.
 - [Hotel-Management-system](https://github.com/sakib-maho/Hotel-Management-system) - Re-architected a Java console app into layered services, persistence, exceptions, and JUnit-tested flows.
 
-## Recommended Pinned Set (Public-Only)
-
-For job applications, keep these 6 pinned for the clearest recruiter signal:
-
-1. `go-task-api-swagger`
-2. `django-backend-practice`
-3. `E-Commerce-Auction-Site`
-4. `Web-Scraping`
-5. `A-Star`
-6. `Hotel-Management-system`
-
 ## Current Focus
 
 - Shipping reliable API-first backend systems
