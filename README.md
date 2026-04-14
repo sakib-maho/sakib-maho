@@ -26,13 +26,27 @@ I focus on practical software that reduces repetitive operations and improves de
 - **Automation:** Make.com, scheduled workflows, API orchestration
 - **DevOps:** Docker, GitHub Actions
 
-## Featured Repositories
+## Public Showcase Repositories
 
-- [ai-video-generate](https://github.com/sakib-maho/ai-video-generate) - Trend-to-video pipeline for short-form media generation.
-- [ai-shorts](https://github.com/sakib-maho/ai-shorts) - Prompt-driven AI short video generation workflow.
-- [ai-lead-intake-crm-automation](https://github.com/sakib-maho/ai-lead-intake-crm-automation) - AI-assisted lead capture and CRM automation.
-- [MotoFeedEnricher](https://github.com/sakib-maho/MotoFeedEnricher) - Product feed enrichment for motorcycle catalogs.
-- [sakib-portfolio](https://github.com/sakib-maho/sakib-portfolio) - Personal portfolio and project showcase website.
+_Most production work is under private organization repositories, so these public repos are curated to demonstrate architecture, engineering quality, and delivery workflow._
+
+- [go-task-api-swagger](https://github.com/sakib-maho/go-task-api-swagger) - Built a production-style Go REST API starter with modular architecture, OpenAPI docs, and consistent error handling.
+- [django-backend-practice](https://github.com/sakib-maho/django-backend-practice) - Delivered a complete Django CRUD API project with tests, admin integration, and clean backend structure.
+- [E-Commerce-Auction-Site](https://github.com/sakib-maho/E-Commerce-Auction-Site) - Implemented a full Django auction platform with authentication, bidding workflow, and category/watchlist features.
+- [Web-Scraping](https://github.com/sakib-maho/Web-Scraping) - Designed a modular scraping pipeline with retries, parsing, CLI entrypoint, and multi-format output support.
+- [A-Star](https://github.com/sakib-maho/A-Star) - Refactored pathfinding logic into reusable modules with CLI input, tests, and notebook demonstration.
+- [Hotel-Management-system](https://github.com/sakib-maho/Hotel-Management-system) - Re-architected a Java console app into layered services, persistence, exceptions, and JUnit-tested flows.
+
+## Recommended Pinned Set (Public-Only)
+
+For job applications, keep these 6 pinned for the clearest recruiter signal:
+
+1. `go-task-api-swagger`
+2. `django-backend-practice`
+3. `E-Commerce-Auction-Site`
+4. `Web-Scraping`
+5. `A-Star`
+6. `Hotel-Management-system`
 
 ## Current Focus
 
