@@ -13,7 +13,7 @@ Backend / AI automation engineer building practical systems for **APIs**, **work
 
 | Project | What it shows |
 |---------|----------------|
-| [AI-Project](https://github.com/sakib-maho/AI-Project) | Real-time MacBook camera AI — face age/gender + air-write Word AR (MediaPipe, OCR, dynamic objects) |
+| [macos-camera-ai](https://github.com/sakib-maho/macos-camera-ai) | Real-time MacBook camera AI — face age/gender + air-write Word AR (MediaPipe, OCR, dynamic objects) |
 | [shawket-sons-trading-website](https://github.com/sakib-maho/shawket-sons-trading-website) | Production multilingual company site (Next.js, TypeScript, Tailwind) |
 | [ai-lead-intake-crm-automation](https://github.com/sakib-maho/ai-lead-intake-crm-automation) | AI lead intake automation (Make.com + OpenAI + Google Sheets) |
 | [ai-support-copilot-rag](https://github.com/sakib-maho/ai-support-copilot-rag) | Support copilot RAG API with citations, Docker, and CI |
@@ -41,8 +41,8 @@ Backend / AI automation engineer building practical systems for **APIs**, **work
 
 - [ai-video-generate](https://github.com/sakib-maho/ai-video-generate) — short-form video pipeline (Gemini + FFmpeg)
 - [Web-Scraping](https://github.com/sakib-maho/Web-Scraping) — modular scraping pipeline with retries + SQLite export
-- [Hotel-Management-system](https://github.com/sakib-maho/Hotel-Management-system) — Java hotel app with layered architecture + tests
-- [A-Star](https://github.com/sakib-maho/A-Star) — pathfinding module, CLI, tests, notebook
+- [Hotel-Management-system](https://github.com/sakib-maho/hotel-management-system) — Java hotel app with layered architecture + tests
+- [A-Star](https://github.com/sakib-maho/a-star-pathfinding) — pathfinding module, CLI, tests, notebook
 - [sakib-portfolio](https://github.com/sakib-maho/sakib-portfolio) — personal portfolio site
 
 ## Contact
