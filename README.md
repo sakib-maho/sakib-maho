@@ -1,54 +1,56 @@
 # Hi, I'm Md Robiul Islam Sakib
 
-Backend-focused Software Engineer building AI-powered automation, data pipelines, and integration-heavy systems.
-
-I focus on practical software that reduces repetitive operations and improves delivery reliability.
+Backend / AI automation engineer building practical systems for **APIs**, **workflows**, and **computer vision** demos that run for real users.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-## What I Work On
+## Featured projects
+
+| Project | What it shows |
+|---------|----------------|
+| [AI-Project](https://github.com/sakib-maho/AI-Project) | Real-time MacBook camera AI — face age/gender + air-write Word AR (MediaPipe, OCR, dynamic objects) |
+| [shawket-sons-trading-website](https://github.com/sakib-maho/shawket-sons-trading-website) | Production multilingual company site (Next.js, TypeScript, Tailwind) |
+| [ai-lead-intake-crm-automation](https://github.com/sakib-maho/ai-lead-intake-crm-automation) | AI lead intake automation (Make.com + OpenAI + Google Sheets) |
+| [ai-support-copilot-rag](https://github.com/sakib-maho/ai-support-copilot-rag) | Support copilot RAG API with citations, Docker, and CI |
+| [ai-workflow-agent-ops](https://github.com/sakib-maho/ai-workflow-agent-ops) | Workflow agent backend with approval gates and retries |
+| [go-task-api-swagger](https://github.com/sakib-maho/go-task-api-swagger) | Go REST API starter with OpenAPI/Swagger |
+| [E-Commerce-Auction-Site](https://github.com/sakib-maho/E-Commerce-Auction-Site) | Full Django auction platform (auth, bidding, watchlist) |
+
+## What I build
 
 - Backend APIs and service integrations
-- Workflow automation for business operations
-- AI-assisted content and data processing pipelines
-- Deployment and CI/CD reliability improvements
+- AI-assisted automation for business operations
+- Computer vision / on-device inference demos
+- Reliable CI, Docker packaging, and clear documentation
 
-## Tech Stack
+## Tech stack
 
-- **Languages:** Python, JavaScript, TypeScript, Go
-- **Backend:** FastAPI, Flask, Node.js
+- **Languages:** Python, TypeScript, JavaScript, Go
+- **Backend:** FastAPI, Django, Node.js
+- **Frontend:** Next.js, React, Tailwind
+- **AI / CV:** OpenAI, MediaPipe, OpenCV, Gemini
 - **Data:** PostgreSQL, SQLite, Google Sheets API
-- **Automation:** Make.com, scheduled workflows, API orchestration
 - **DevOps:** Docker, GitHub Actions
 
-## Public Showcase Repositories
+## More showcase repos
 
-_Most production work is under private organization repositories, so these public repos are curated to demonstrate architecture, engineering quality, and delivery workflow._
-
-- [go-task-api-swagger](https://github.com/sakib-maho/go-task-api-swagger) - Built a production-style Go REST API starter with modular architecture, OpenAPI docs, and consistent error handling.
-- [django-backend-practice](https://github.com/sakib-maho/django-backend-practice) - Delivered a complete Django CRUD API project with tests, admin integration, and clean backend structure.
-- [E-Commerce-Auction-Site](https://github.com/sakib-maho/E-Commerce-Auction-Site) - Implemented a full Django auction platform with authentication, bidding workflow, and category/watchlist features.
-- [Web-Scraping](https://github.com/sakib-maho/Web-Scraping) - Designed a modular scraping pipeline with retries, parsing, CLI entrypoint, and multi-format output support.
-- [A-Star](https://github.com/sakib-maho/A-Star) - Refactored pathfinding logic into reusable modules with CLI input, tests, and notebook demonstration.
-- [Hotel-Management-system](https://github.com/sakib-maho/Hotel-Management-system) - Re-architected a Java console app into layered services, persistence, exceptions, and JUnit-tested flows.
-
-## Current Focus
-
-- Shipping reliable API-first backend systems
-- Improving observability and error handling in automations
-- Strengthening code quality, tests, and maintainability
+- [ai-video-generate](https://github.com/sakib-maho/ai-video-generate) — short-form video pipeline (Gemini + FFmpeg)
+- [Web-Scraping](https://github.com/sakib-maho/Web-Scraping) — modular scraping pipeline with retries + SQLite export
+- [Hotel-Management-system](https://github.com/sakib-maho/Hotel-Management-system) — Java hotel app with layered architecture + tests
+- [A-Star](https://github.com/sakib-maho/A-Star) — pathfinding module, CLI, tests, notebook
+- [sakib-portfolio](https://github.com/sakib-maho/sakib-portfolio) — personal portfolio site
 
 ## Contact
 
 - GitHub: [sakib-maho](https://github.com/sakib-maho)
-- Portfolio: [sakib-portfolio](https://github.com/sakib-maho/sakib-portfolio)
+- Portfolio: [sakib-portfolio](https://sakib-maho.github.io/sakib-portfolio/)
 - LinkedIn: [msakib162004](https://linkedin.com/in/msakib162004)
 
 ---
 
-Open to backend engineering and AI automation opportunities.
+Open to **backend engineering**, **AI automation**, and **full-stack** roles.
