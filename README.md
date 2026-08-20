@@ -18,8 +18,8 @@ Backend / AI automation engineer building practical systems for **APIs**, **work
 | [ai-lead-intake-crm-automation](https://github.com/sakib-maho/ai-lead-intake-crm-automation) | AI lead intake automation (Make.com + OpenAI + Google Sheets) |
 | [ai-support-copilot-rag](https://github.com/sakib-maho/ai-support-copilot-rag) | Support copilot RAG API with citations, Docker, and CI |
 | [ai-workflow-agent-ops](https://github.com/sakib-maho/ai-workflow-agent-ops) | Workflow agent backend with approval gates and retries |
-| [go-task-api-swagger](https://github.com/sakib-maho/go-task-api-swagger) | Go REST API starter with OpenAPI/Swagger |
-| [E-Commerce-Auction-Site](https://github.com/sakib-maho/E-Commerce-Auction-Site) | Full Django auction platform (auth, bidding, watchlist) |
+| [go-url-health-checker-cli](https://github.com/sakib-maho/go-url-health-checker-cli) | Concurrent Go CLI for URL health checks with JSON/CSV export |
+| [ai-video-generate](https://github.com/sakib-maho/ai-video-generate) | Short-form video pipeline (Gemini + FFmpeg) |
 
 ## What I build
 
@@ -39,11 +39,11 @@ Backend / AI automation engineer building practical systems for **APIs**, **work
 
 ## More showcase repos
 
-- [ai-video-generate](https://github.com/sakib-maho/ai-video-generate) — short-form video pipeline (Gemini + FFmpeg)
+- [go-task-api-swagger](https://github.com/sakib-maho/go-task-api-swagger) — Go REST API starter with OpenAPI/Swagger
+- [E-Commerce-Auction-Site](https://github.com/sakib-maho/E-Commerce-Auction-Site) — Full Django auction platform (auth, bidding, watchlist)
 - [Web-Scraping](https://github.com/sakib-maho/Web-Scraping) — modular scraping pipeline with retries + SQLite export
 - [Hotel-Management-system](https://github.com/sakib-maho/hotel-management-system) — Java hotel app with layered architecture + tests
 - [A-Star](https://github.com/sakib-maho/a-star-pathfinding) — pathfinding module, CLI, tests, notebook
-- [sakib-portfolio](https://github.com/sakib-maho/sakib-portfolio) — personal portfolio site
 
 ## Contact
 
